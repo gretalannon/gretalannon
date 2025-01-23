@@ -1,4 +1,4 @@
-## Hi there, I'm Greta Lannon - [gretalannon] 👋
+## Hi there, I'm Greta - gretalannon 👋
 
 ## Projects: (to be updated)
 <!--
