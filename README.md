@@ -1,5 +1,6 @@
 ## Hi there, I'm Greta Lannon - [gretalannon] 👋
 
+## Projects: (to be updated)
 <!--
 **gretalannon/gretalannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
