@@ -1,6 +1,13 @@
 ## Hi there, I'm Greta - gretalannon 👋
+## I'm currently studying Industrial Design and Computing at the University of Notre Dame!
 
-## Projects: (to be updated)
+## Technical Skills: 
+- Python
+- Seaborn data visualization
+
+
+## Projects:
+- Portfolio Repository: [README.md](https://github.com/gretalannon/LANNON-Python-Portfolio/blob/4af0d5cffdfbc6e84b32c0bd074e02672f4ac742/README.md)
 <!--
 **gretalannon/gretalannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
