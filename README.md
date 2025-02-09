@@ -1,13 +1,32 @@
 ## Hi there, I'm Greta - gretalannon 👋
-## I'm currently studying Industrial Design and Computing at the University of Notre Dame!
+
+### Industrial Design and Computing  student at the University of Notre Dame
+
+---
+
+## Current projects: exploring object-oriented programming and data analysis/visualization 
+
+---
 
 ## Technical Skills: 
 - Python
 - Seaborn data visualization
 
+---
 
-## Projects:
-- Portfolio Repository: [README.md](https://github.com/gretalannon/LANNON-Python-Portfolio/blob/4af0d5cffdfbc6e84b32c0bd074e02672f4ac742/README.md)
+## Goals: By the end of this semester, I aim to...
+- have a sophisticated portfolio of projects
+- have a strong proficiency in data analysis/visualization techniques
+- utilize my coding skills in design projects!
+
+---
+
+## 📊 GitHub Stats  
+![My Stats](https://github-readme-stats.vercel.app/api?username=gretalannon&show_icons=true&theme=radical)  
+
+---
+
+## Contact: glannon2@nd.edu
 <!--
 **gretalannon/gretalannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
