@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm from Granger, Indiana, and currently studying **Industrial Design** and **Computing & Digital Technologies** at the **University of Notre Dame.**
 
+I'm passionate about all things design, and enjoying creating in my free time. I also love to read, hike, play piano, and practice my Spanish!
+
 📍 **Location:** Notre Dame, IN  
 📧 **Email:** [glannon2@nd.edu](mailto:glannon2@nd.edu)  
 👨‍💻 **GitHub:** [gretalannon](https://github.com/gretalannon)
