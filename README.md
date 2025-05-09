@@ -1,23 +1,22 @@
 ## Hi there, I'm Greta - gretalannon 👋
 
-### Industrial Design and Computing  student at the University of Notre Dame
+Welcome to my GitHub profile! I'm from Granger, Indiana, and currently studying **Industrial Design** and **Computing & Digital Technologies** at the **University of Notre Dame.**
+
+📍 **Location:** Notre Dame, IN  
+📧 **Email:** [glannon2@nd.edu](mailto:glannon2@nd.edu)  
+👨‍💻 **GitHub:** [gretalannon](https://github.com/gretalannon)
 
 ---
 
-## Current projects: exploring object-oriented programming and data analysis/visualization 
+## Current projects: exploring object-oriented programming along with data analysis/visualization, and applying this skills to Streamlit app development.
 
 ---
 
 ## Technical Skills: 
 - Python
-- Seaborn data visualization
-
----
-
-## Goals: By the end of this semester, I aim to...
-- have a sophisticated portfolio of projects
-- have a strong proficiency in data analysis/visualization techniques
-- utilize my coding skills in design projects!
+- Seaborn Data Visualization
+- SpaCy and VADER NLP
+- Streamlit
 
 ---
 
@@ -25,8 +24,6 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=gretalannon&show_icons=true&theme=radical)  
 
 ---
-
-## Contact: glannon2@nd.edu
 <!--
 **gretalannon/gretalannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
